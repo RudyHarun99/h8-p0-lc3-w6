@@ -105,7 +105,7 @@ function jualanTahu(baris, kolom, calonPembeli) {
 		}
 	}
 	// console.log(pecah);
-	objHasil['box'] = pecah;
+	objHasil['box'] = kotak;
 
 	return objHasil;
 }
